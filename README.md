@@ -108,3 +108,7 @@ You can download the APK of the app from the following link:
 - [Download APK](<https://drive.google.com/file/d/10O8rekIRX5t6l8s86rTCIfTQCTZu_lNe/view?usp=drive_link>)
 
 Make sure to enable "Install from Unknown Sources" in your Android settings if you're installing the APK manually.
+
+
+https://github.com/user-attachments/assets/8190dc28-7338-4529-b7ef-6cb961d876f0
+
